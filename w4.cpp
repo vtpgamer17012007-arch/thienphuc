@@ -37,6 +37,7 @@ void ex6()
 {
     int a[Nmax] = {0}, n;
     bool checkDE(0), checkIN(0);
+    cout << "hello";
 }
 int main()
 {
