@@ -20,19 +20,7 @@ void ex4()
         cout << "Empty";
 }
 
-void ex5()
-{
-    int a[Nmax], n;
-    cin >> n;
-    for (int i = 1; i <= n; i++)
-    {
-        cin >> a[i];
-    }
-    for (int i = n; i >= 1; i--)
-    {
-        cout << a[i] << " ";
-    }
-}
+
 void ex6()
 {
     int a[Nmax] = {0}, n;
