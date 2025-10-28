@@ -37,12 +37,6 @@ void ex6()
 {
     int a[Nmax] = {0}, n;
     bool checkDE(0), checkIN(0);
-    cin >> n;
-    for (int i = 1; i <= n; i++)
-    {
-        cin >> a[i];
-        if (a[i] >= a[i - 1])
-    }
 }
 int main()
 {
