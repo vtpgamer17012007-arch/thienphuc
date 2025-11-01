@@ -1,6 +1,4 @@
-#include <iostream>
-#define Nmax 100
-using namespace std;
+
 
 void ex4()
 {
